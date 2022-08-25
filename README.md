@@ -1,3 +1,13 @@
+#Vaidyalikit: 
+
+This project is actually a modification of the Tensorflow Flower Recognition with Android Tutorial(description below).
+
+The app was developed as part of the Smart India Hackathon 2022 for the following problem statement:
+
+Solution to digitize the handwritten prescriptions, doctor notes, lab reports, which can also help to integrate tightly with other healthcare systems for seamless digitization and data flow. Standardized forms can also be made machine readable with support for multiple local Indian languages to make digitization much simpler.
+
+
+
 # Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
 
 This folder contains the code for the TensorFlow Lite codelab:
