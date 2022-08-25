@@ -6,8 +6,9 @@ The app was developed as part of the Smart India Hackathon 2022 for the followin
 
 Solution to digitize the handwritten prescriptions, doctor notes, lab reports, which can also help to integrate tightly with other healthcare systems for seamless digitization and data flow. Standardized forms can also be made machine readable with support for multiple local Indian languages to make digitization much simpler.
 
+Instead of flowers we added the handwritten names of five medicines: Ostocal-D, Nappa, Neuro-B, Maxpro, Ranitid.
 
-
+Credit for the images goes to: http://socialtech.gramweb.net/media-archive/codes
 # Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
 
 This folder contains the code for the TensorFlow Lite codelab:
@@ -52,5 +53,5 @@ http://www.apache.org/licenses/LICENSE-2.0
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
-# VaidyaLikit
-# VaidyaLikit
+
+
